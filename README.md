@@ -1,0 +1,2 @@
+# linkedlist
+small linkedlist code
